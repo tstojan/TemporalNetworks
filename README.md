@@ -1,5 +1,7 @@
 # TemporalNetworks
-Code for the robustness of temporal networks master project (University of Cambridge). Languages: C# (code) and Matlab (plots)
+Code for the robustness of temporal networks master project (University of Cambridge). 
+
+Languages: C# (code) and Matlab (plots)
 
 Master thesis: 
 S. Trajanovski, Error and attack vulnerability of temporal networks, MSc/MPhil thesis, University of Cambridge, Cambridge, United Kingdom, June 16, 2011. 
