@@ -1,0 +1,15 @@
+C:\Data\Coding\Cambridge\temporalMetrics\temporalMetrics\bin\Release\temporalMetrics.exe
+C:\Data\Coding\Cambridge\temporalMetrics\temporalMetrics\bin\Release\temporalMetrics.pdb
+C:\Data\Coding\Cambridge\temporalMetrics\temporalMetrics\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Data\Coding\Cambridge\temporalMetrics\temporalMetrics\obj\x86\Release\temporalMetrics.exe
+C:\Data\Coding\Cambridge\temporalMetrics\temporalMetrics\obj\x86\Release\temporalMetrics.pdb
+C:\Data\Coding\Cambridge\temporalMetricsCabSpotting\temporalMetrics\obj\x86\Release\temporalMetrics.exe
+C:\Data\Coding\Cambridge\temporalMetricsCabSpotting\temporalMetrics\obj\x86\Release\temporalMetrics.pdb
+C:\Data\Coding\Cambridge\temporalMetricsCabSpotting\temporalMetrics\bin\Release\temporalMetrics.exe
+C:\Data\Coding\Cambridge\temporalMetricsCabSpotting\temporalMetrics\bin\Release\temporalMetrics.pdb
+C:\Data\Coding\Cambridge\temporalMetricsCabSpotting\temporalMetrics\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\stojan\Desktop\important!!!\MPhil_SourceCode_STrajanovski\software_TemporalMetrics (CSharp)\temporalMetrics\obj\x86\Release\temporalMetrics.exe
+C:\Users\stojan\Desktop\important!!!\MPhil_SourceCode_STrajanovski\software_TemporalMetrics (CSharp)\temporalMetrics\obj\x86\Release\temporalMetrics.pdb
+C:\Users\stojan\Desktop\important!!!\MPhil_SourceCode_STrajanovski\software_TemporalMetrics (CSharp)\temporalMetrics\bin\Release\temporalMetrics.exe
+C:\Users\stojan\Desktop\important!!!\MPhil_SourceCode_STrajanovski\software_TemporalMetrics (CSharp)\temporalMetrics\bin\Release\temporalMetrics.pdb
+C:\Users\stojan\Desktop\important!!!\MPhil_SourceCode_STrajanovski\software_TemporalMetrics (CSharp)\temporalMetrics\obj\x86\Release\ResolveAssemblyReference.cache
